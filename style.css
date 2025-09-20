@@ -1,0 +1,21 @@
+body {
+  font-family: system-ui;
+  background: lightblue;
+  color: green;
+  text-align: left;
+  
+}
+h1 {border-block: 5px solid red;}
+p {border-block: 1px solid green;}
+div {
+  height: 100px;
+  width: 500px;
+  background-color:lightgreen;
+  color:red;
+}
+#cat {background-color:green;}
+#image1 {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
